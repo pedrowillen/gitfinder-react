@@ -1,0 +1,22 @@
+input {
+    border: 1px solid #999;
+    color: #fff;
+    border-radius: 22px;
+    min-width: 250px;
+    width: 70%;
+    margin-right: 12px;;
+    background: transparent;
+    font-size: 18px;
+    padding: 10px;
+}
+
+button {
+    border: 1px solid #999;
+    border-radius: 22px;
+    margin-right: 12px;;
+    background: #2d333b;
+    color: #fff;
+    font-size: 18px;
+    padding: 10px;
+    cursor: pointer;
+}

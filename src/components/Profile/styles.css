@@ -1,0 +1,31 @@
+.profile {
+    display: flex;
+    margin: 40px 0;
+}
+
+.profile img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 2px solid #e5e5e5;
+    margin-right: 32px;
+}
+
+.profile h3 {
+    color: #999;
+    font-size: 24px;
+    margin: 0;
+}
+
+.profile p {
+    color: #999;
+    font-size: 12px;
+    margin-top: 20px;
+}
+
+.profile span {
+    display: block;
+    color: #999;
+    font-size: 12px;
+    margin: 0;
+}

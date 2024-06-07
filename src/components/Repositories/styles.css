@@ -1,0 +1,10 @@
+.repositories h4 {
+    margin-top: 12px;
+    font-size: 24px;
+    text-align: center;
+}
+
+.repositories a {
+    text-decoration: none;
+    cursor: pointer;
+}
